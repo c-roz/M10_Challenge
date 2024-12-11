@@ -1,0 +1,65 @@
+
+
+    .logo {
+      display: block;
+      margin-left: 40%;
+      width: 18%; padding: 5px;
+    }
+    
+      
+    .navBar{padding:30px}
+    
+    .navButton{background-color:white;background-color: white;
+        color: black;
+        padding: 5px 40px;
+        border: 2px;border-style: solid;
+        border-color:#F2F2F2  ;
+        border-radius: 5px;
+      font-family: "Lato", sans-serif;
+      font-weight: 700;
+      font-style: normal;
+      }
+      
+      .aboutUs{text-align: start; width: 40%; margin: auto;font-family: "Poppins", sans-serif;
+      font-weight: 700;
+      font-style: normal;color: white;padding: 10px}
+      
+    .article{text-align: start; width: 40%; margin: auto;font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-style: normal;}
+    .SanFran{width:40%; padding: 20px;}
+    
+    .ourCoffee{text-align: start; width: 40%; margin: auto;padding:20px;}
+      .beans{width:40%;}
+    
+    p{font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-style: normal;color: white;
+    padding: 10px;}
+      
+      #container{position: relative;}
+      
+      #centered{position: absolute; top:25%; left: 50%; transform: translate(-50%, -50%); color: white;font-family: "Poppins", sans-serif;
+      font-size: 24px;
+      font-style: bold;}
+      
+      #smallLogo{position: absolute; top:80%; left: 50.65%; transform: translate(-50%, -50%);width:5.5%}
+    
+    
+    .statement{text-align: start; width: 40%; margin: auto;padding:20px;}
+      
+      .contactButton{background-color:white;background-color: white;padding: 20px;
+        color: black;
+        padding: 5px 40px;
+        border: 2px;border-style: solid;
+        border-color:#F2F2F2  ;
+        border-radius: 5px;font-family: "Lato", sans-serif;
+      font-weight: 700;
+      font-style: normal;}
+      
+      .contact{padding: 40px;}
+      
+      .socialLinks{font-family: "Lato", sans-serif;
+      font-weight: 400;
+      font-style: normal;;
+    padding: 10px;}
